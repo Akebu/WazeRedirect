@@ -1,0 +1,11 @@
+Package: com.tonyciroussel.wazeredirect
+Name: WazeRedirect
+Depends: firmware (>= 9.0), firmware (<< 10.0), mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Launch Waze instead of Google maps in any web-browser
+Maintainer: Tony Ciroussel
+Author: Tony Ciroussel
+Section: Tweaks
+Homepage: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.wazeredirect
+Depiction: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.wazeredirect
